@@ -1,3 +1,0 @@
-welcome to devops class
-echo "HYD rock
-echo "HYD"
