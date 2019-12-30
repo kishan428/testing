@@ -6,3 +6,8 @@
 
  def  triangle():
       pass
+
+
+ def  Octagne():
+      pass
+
